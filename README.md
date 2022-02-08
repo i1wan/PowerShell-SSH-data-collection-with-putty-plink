@@ -11,4 +11,8 @@ The only thing important to mention is that we have two Bare Metal Edges and we 
 
 The goal is to receive back the traffic (on eth-in) that is sent out by the Traffic Generator (on eth-out)
 
-Obviously, there are more interfaces in “the network” on multiple network devices (switches, routers, ESXi hosts, and VMs) but this is out of scope as we are only focussing on the Bare Metal Edges in this article.
+Obviously, there are more interfaces in “the network” on multiple network devices (switches, routers, ESXi hosts, and VMs) but this is out of scope as we are only focussing on the Bare Metal Edges in this article.e
+
+# The wiki post 
+More on how the script operates can be found on the nsx ninja wiki here:
+https://nsx.ninja/index.php/Using_putty/plink_with_PowerShell_to_SSH_into_an_NSX_Edge_and_collect_information
